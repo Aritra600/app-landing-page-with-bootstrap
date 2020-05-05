@@ -1,0 +1,46 @@
+body{
+	background: url(one.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Lora', serif;
+}
+#one{
+	text-align: center;
+	padding-top: 25%;
+}
+#two{
+	float: left;
+}
+#img{
+	float: left;
+	width: 30px;
+	height: 30px;
+    padding-top: 10px; 
+    margin-right: 5px;
+}
+#three{
+	float: left;
+}
+#img1{
+	float: left;
+	width: 30px;
+	height: 30px;
+    padding-top: 10px; 
+    margin-right: 5px;
+}
+#four{
+	color: white;
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+html{
+	height: 100%;
+}
+hr{
+	background-color: white;
+	width: 560px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
